@@ -7,5 +7,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal_sha256": "6ade6732e94982dda513d49469edb7262edaf63e99065ebfb606724e4ce9a1cb",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 288,
+    "prev": "98e12b7f5ace495a90b18ef51a139955fc81c0546ed05e6505b2d683f0959121",
+    "link": "460fa3396d5a989b6b02b2538bd34a250d499a628298973ebaa6f527e6c091b8",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
